@@ -30,7 +30,7 @@ When deploying and interacting with smart contracts, it's crucial to consider se
 
 **License:**
 
-This project is licensed under the [insert license here]. Please refer to the LICENSE file for more details.
+This project is licensed under the [MIT]. Please refer to the LICENSE file for more details.
 
 **Disclaimer:**
 
